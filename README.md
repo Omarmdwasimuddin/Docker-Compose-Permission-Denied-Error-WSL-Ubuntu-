@@ -38,6 +38,9 @@ at unix:///var/run/docker.sock
 6.  Ubuntu-এর পাশের Integration অপশনটি **Enabled** করুন।
 7.  **Apply & Restart** চাপুন।
 
+<img width="935" height="785" alt="image" src="https://github.com/user-attachments/assets/0e11239a-8e2b-4bfa-a139-b0e987f9d832" />
+
+
 ### Step 2: WSL restart করুন
 
 Windows PowerShell খুলে চালান:
